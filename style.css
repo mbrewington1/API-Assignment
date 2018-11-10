@@ -1,0 +1,42 @@
+.card-body a {
+    word-break: break-all;
+  }
+  
+  .jumbotron {
+    background-color: #20315A; 
+    color: white;
+  }
+  
+  li {
+    color: black;
+    list-style: none;
+    border: 1px #dee2e6 solid;
+    padding: 10px;
+    margin: 2px;
+  }
+  
+  a:hover {
+    text-decoration: none;
+  }
+
+  style.css
+
+
+
+#title {
+color:blue;
+}
+body {
+margin: 0px;
+}
+
+#header {
+height: 230px;
+background-color: bisque;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.container {
+padding: 100px;
+}
