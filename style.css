@@ -40,3 +40,8 @@ align-items: center;
 .container {
 padding: 100px;
 }
+
+#stockCards {
+  margin-top: 40px;
+}
+
